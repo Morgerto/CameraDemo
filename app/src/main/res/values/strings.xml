@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidCamera4</string>
+    
+    <string name="snap_shot_settings">Snapshot Settings</string>
+    <string name="record_settings">Record Settings</string>
+    <string name="snap_shot">SnapShot</string>
+    <string name="record">Record</string>
+    <string name="camera_api_2_1">Camera API2 / API1</string>
+    <string name="input_format">Input Format</string>
+</resources>
